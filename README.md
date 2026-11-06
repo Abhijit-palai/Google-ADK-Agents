@@ -1,2 +1,2 @@
 # Google-ADK-Agents
-Just learn about Google ADK. how to work with Google ADK.
+Just learn about Google ADK. how to work with Google ADK.(Agent Development Kit)
